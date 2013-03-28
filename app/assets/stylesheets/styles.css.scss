@@ -1,3 +1,9 @@
+
+$btnPrimaryBackground: #5cbbff;
+
+$dropdownLinkColorHover: white;
+$dropdownLinkBackgroundHover: #5cbbff;
+
 $navbarBackgroundHighlight: white;
 $navbarBackground: white;
 /*$navbarLinkBackgroundHover: white;*/
@@ -9,6 +15,7 @@ body {
 
 }
 @import 'bootstrap-responsive';
+
 
 .navbar-inner {
 	@include box-shadow(none !important);
